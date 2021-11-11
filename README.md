@@ -1,5 +1,5 @@
 # Spotify Clone
-WEB version of Spotify's presentation page using HTML / CSS and BootStrap.
+WEB version of Spotify's presentation page using HTML / CSS and BootStrap!
  
  **DeskTop:**
  
